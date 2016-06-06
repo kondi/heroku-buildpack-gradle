@@ -12,7 +12,7 @@ LIB_DIR=$BP_DIR/lib
 . $LIB_DIR/failures.sh
 
 # parse args
-BUILD_DIR=$1
+BUILD_DIR=$1/server
 CACHE_DIR=$2
 ENV_DIR=$3
 
